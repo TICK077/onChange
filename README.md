@@ -70,7 +70,7 @@ onChange
 Run inside the `onChange` directory:
 
 ```bash
-onChange init
+onChange -init
 ```
 
 Effects:
@@ -202,7 +202,7 @@ onChange
 在 `onChange` 目录中运行：
 
 ```bash
-onChange init
+onChange -init
 ```
 
 作用：
